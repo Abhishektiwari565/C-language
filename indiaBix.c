@@ -1,4 +1,4 @@
-#include<stdio.h>
+//#include<stdio.h>
 
 //1.Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?
 //void main() {
