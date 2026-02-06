@@ -1,37 +1,39 @@
 
 
-# 🔤 Vowel or Consonant Checker (C)
+# 📊 Largest Element in 1D Array (C)
 
-This C program checks whether a character entered by the user is a **vowel** or a **consonant** using a **`switch` statement**.
-
----
-
-
+This C program finds the **largest element** in a **one-dimensional array** entered by the user.
 
 ## 🧪 Sample Output
 
-**Input:** `a`
-**Output:** `a is a vowel.`
+**Input:**
 
-**Input:** `b`
-**Output:** `b is consonant.`
+```
+Enter the size of array: 5
+Enter 5 elements:
+10 25 8 30 15
+```
+
+**Output:**
+
+```
+The largest element is: 30
+```
 
 ---
 
 ## 📸 Screenshot
 
-<img width="1919" height="1079" alt="Screenshot 2026-02-06 154921" src="https://github.com/user-attachments/assets/7e057c69-9d50-4bad-8186-b8cfcb417861" />
+<img width="1919" height="1078" alt="Screenshot 2026-02-06 154620" src="https://github.com/user-attachments/assets/9d92a9a3-82ba-40de-af34-608f4014fb63" />
 
-<img width="1919" height="1065" alt="Screenshot 2026-02-06 154907" src="https://github.com/user-attachments/assets/5113095e-52bc-4ae4-bd21-f6b37e2f0ed3" />
-
----
 
 ## ✅ Concepts Used
 
-* Switch statement 🔀
-* Character input/output
+* 1D Arrays
+* For loop 🔁
+* Conditional statement (`if`)
 * Basic C programming 💡
 
 ---
 
-
+If you want this **even shorter** or formatted for **college practical files**, just say the word 😄
